@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "night",
+    "src": "images/1.png",
+    "alt": "night_image"
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "name": "cat",
+    "src": "images/2.png",
+    "alt": "cat_image"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "name": "moon",
+    "src": "images/3.png",
+    "alt": "moon_image"
   }
 ]
